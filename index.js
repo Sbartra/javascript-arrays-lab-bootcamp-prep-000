@@ -6,4 +6,3 @@ function destructivelyAppendKitten(kittens){
 array.push(Ralph);
 console.log(kittens);
 }
-
